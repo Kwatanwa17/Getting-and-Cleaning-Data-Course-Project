@@ -36,6 +36,7 @@ test_txt_name <- list.files(path = "./UCI HAR Dataset/test/Inertial Signals", fu
 test_txt_name <- gsub(".txt$","",test_txt_name)
 test_list <- tapply(test_txt_list, list(test_txt_name), read.table)
 
+#Creating functions
 CalculateMeanByRow <- function(df) apply(df, 1, mean)
 CalculateSDByRow <- function(df) apply(df, 1, sd)
 

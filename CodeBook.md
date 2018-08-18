@@ -1,6 +1,6 @@
-# This file describes variables, datas and transformation of run_analysis.R
+## This file describes variables, datas and transformation of run_analysis.R
 
-Set the working directory where the dataset file is located
+### Set the working directory where the dataset file is located
 
 ### Read activity labels and features
 

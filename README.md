@@ -12,7 +12,7 @@ This repository includes the following files:
 ### tidydataset 
 
 This is a tidy data set of with the average of each variable for each activity and each subject.
-Each column represents the average of each variable by activity name and subject.
+Each column represents the average of each variable by "activity name" and "subject".
 
 [1] "activity_name"                       
 [2] "subject"                             

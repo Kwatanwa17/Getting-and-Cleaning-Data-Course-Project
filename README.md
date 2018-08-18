@@ -6,6 +6,7 @@ This repository includes the following files:
 - README.md: This file
 - run_analysis.R: Script to clean and create a tidy dataset
 - tidydataset.txt: Output of the data "tidydataset"
+- CodeBook.md: Code book for run_analysis.R
 
 ## Variables of the script file:
 
